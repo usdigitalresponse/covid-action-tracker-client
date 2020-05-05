@@ -1,0 +1,22 @@
+$theme-colors: (
+  primary: rgb(0,160,223),
+  secondary: #878787,
+  success: #06d897,
+  warning: #ffc02d,
+  alert: #f53d3d,
+  accent: #42426f
+);
+
+$light-gray: #e3e3e3;
+$medium-gray: #878787;
+$dark-gray: #2c2c2c;
+
+$black: #222222;
+$white: #fbfbfb;
+
+$body-background: #f8fbff;
+
+$brand_primary: map-get($theme-colors, primary);
+$brand_secondary: map-get($theme-colors, secondary);
+
+$font-size-base: 14px; 

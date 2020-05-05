@@ -1,0 +1,25 @@
+<template>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 45icons</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LAT-04.09.20-01-Alternate" transform="translate(-70.000000, -1061.000000)" stroke="#26BBE3" stroke-width="3">
+            <g id="Group-38" transform="translate(0.000000, 920.000000)">
+                <g id="Group-32" transform="translate(70.000000, 141.000000)">
+                    <g id="Group-45">
+                        <line x1="13" y1="0.5" x2="13" y2="26.5" id="Line-7"></line>
+                        <line x1="0" y1="13.5" x2="26" y2="13.5" id="Line-7-Copy"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+</template>
+
+<script>
+export default {
+	name: 'add-icon'
+};
+</script>
