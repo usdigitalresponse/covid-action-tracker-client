@@ -49,7 +49,7 @@ Vue.use(VueMq, {
 
 Vue.use(VueGoogleMaps, {	
 	load: {
-		key: 'AIzaSyDPraGs0H2AgOZNacdILy0WTPgfFWDZ9fc',
+		key: process.env.GOOGLE_API_KEY,
 		libraries: '', // drawing,visualization
 	}
 })
