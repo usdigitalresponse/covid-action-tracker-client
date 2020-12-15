@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bluebird": "^3.7.2",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.5.3",
     "bootstrap-vue": "^2.11.0",
     "core-js": "^3.6.5",
     "lodash": "^4.17.19",
