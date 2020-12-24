@@ -12,7 +12,7 @@
     "deploy": "s3-deploy './dist/**' --cwd './dist/' --region us-east-1 --bucket actiontracker.org --profile s3-admin"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.7.2",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.11.0",
